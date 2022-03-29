@@ -1,0 +1,22 @@
+{
+    "ETH": {
+        "chain_id": 1,
+        "name": "Ethereum Mainnet"
+    },
+    "MATIC": {
+        "chain_id": 137,
+        "name": "Polygon Mainnet"
+    },
+    "BSC": {
+        "chain_id": 56,
+        "name": "Binance Smart Chain Mainnet"
+    },
+    "AVAX": {
+        "chain_id": 43114,
+        "name": "Avalanche Mainnet"
+    },
+    "SOLANA": {
+        "chain_id": 1399811149,
+        "name": "Solana Mainnet"
+    }
+}

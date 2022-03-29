@@ -1,5 +1,5 @@
 .env
-./node_modules
+./node_modules/
 ./infinite_dao_labels.json
 ./package-lock.json
 
