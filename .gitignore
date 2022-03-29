@@ -1,3 +1,8 @@
+.env
+./node_modules
+./infinite_dao_labels.json
+./package-lock.json
+
 # Logs
 logs
 *.log
